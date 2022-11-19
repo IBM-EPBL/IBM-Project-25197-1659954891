@@ -215,7 +215,7 @@ NULL-->
 </p>
 
 <hr>
-📫 How to reach Us <a href = "Mail to:bavithravairam@gmail.com">Connect with Email</a>
+📫 How to reach Us <a href = "bavithravairam@gmail.com">Connect with Email</a>
 
 <hr>
 
